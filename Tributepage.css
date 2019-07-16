@@ -1,0 +1,32 @@
+ * {  margin: 0;
+      padding: 0;
+   }
+
+#main { display: flex;
+               flex-direction: column;
+               flex-wrap: wrap;
+               justify-content:center;
+               background-color: green;
+               align-items: center;
+      }
+
+ #title{
+      align-self: center;
+      background-color: blue;
+ } 
+
+ #img-div {  background-color: red;
+             align-self: center;
+ }
+
+ #image {  background-color: ;
+           align-self: center;
+ } 
+
+#tribute-info { background-color: yellow;
+                align-self: 
+}
+
+#tribute-link { background-color: purple;	
+                margin: auto; 
+}
